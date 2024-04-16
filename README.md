@@ -1,6 +1,4 @@
-## Asgari Ücret Hesaplama Uygulaması
-Swift-4.2 ile geliştirilmiş bir iOS uygulamasıdır. 
-Amaç uygulama geliştirisinin Button,Image,Label gibi bileşenleri kullnarak bir uygulama geliştirmesi,
-Txt Input un Traits özelliklerinin kullanılarak klavye tipini belirleme ( Sadece Rakam yazması gibi ) 
-. 
+# Asgari Ücret Hesaplama Uygulaması
 
+## Proje Açıklaması
+Bu uygulama, Swift 4.2 kullanılarak geliştirilmiş bir iOS uygulamasıdır. Amaç, iOS geliştirme sürecinde Button, Image, Label gibi bileşenleri kullanarak temel bir uygulama geliştirmektir. Ayrıca, TextField bileşeninin özelliklerinden faydalanarak sadece rakam girilmesini sağlamak gibi klavye tiplerini belirleme özelliklerine de yer verilmiştir.
